@@ -1,0 +1,14 @@
+# Dependencias de Node (suelen pesar mucho)
+node_modules/
+
+# Archivos compilados de TypeScript (si usas un comando para compilar)
+dist/
+build/
+
+# Archivos de entorno (nunca subas contraseñas o claves)
+.env
+
+# Archivos de sistema y logs
+*.log
+Thumbs.db
+.DS_Store
